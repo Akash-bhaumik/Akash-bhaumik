@@ -1,5 +1,3 @@
-![Blue-git_Banner](https://github.com/user-attachments/assets/ce1c196f-91e2-4ea5-bdb0-18b4dcc58e8b)
-<!--![image](https://github.com/Kane-dylan/Kane-dylan/assets/139806450/0f4b59c0-3581-496e-bb97-7f67c32a070a)-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!+👨🏽‍💻;+I'm+Akash+Bhaumik!;+Let's+talk+in+zero_s+and+one_s;" /></h1>
 <h3 align="center">A passionate Cybersecurity enthusiast from India 
