@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!+👨🏽‍💻;+I'm+Akash+Bhaumik!;+Let's+talk+in+zero_s+and+one_s;" /></h1>
-<h3 align="center">A passionate Cybersecurity enthusiast from India 
+<h3 align="center">A passionate Devops enthusiast from India 
 </h3>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
@@ -11,18 +11,18 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning python programming language.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing Btech in Computer Science Specialization With Cyber Security.
-- 🌱 &nbsp; Enthusiast in cyber Security and Cloud Computing (Exploring AWS) .
+- 🤔 &nbsp; Exploring devops.
+- 🎓 &nbsp; Pursuing Btech in Computer Science and Engineering.
+- 🌱 &nbsp; Enthusiast in Cloud Computing (Exploring AWS) .
 - ✍️ &nbsp; Reading Selfhelp,Autobiography,Stratup,Financial Literacy,Science Fiction Books 
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Bash | C  
-- 🌐 &nbsp; Wev dev | HTML | CSS | JavaScript | Bootstrap | MERN 
-- 🛢 &nbsp; Cyber Security | Cloud Computing | Sofware Development 
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
+- 🌐 &nbsp; Ansiable | Terraform | Docker | Kubernetics
+- 🛢 &nbsp; Cloud Computing |  Cyber Security | AI
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 
 <h3> 🤝🏻 Connect with Me </h3>
